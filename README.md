@@ -1,6 +1,8 @@
 # Jogo da Velha em C
+###Simples, bonito e funcional!
 
-Este é um simples jogo da velha implementado em linguagem C. O jogo permite partidas entre dois jogadores, armazenando resultados e gerando arquivos de histórico para acompanhamento.
+
+Este é um simples jogo da velha implementado na linguagem C. O jogo permite partidas entre dois jogadores, armazenando resultados e gerando arquivos de histórico para acompanhamento.
 
 ## Funcionalidades
 
