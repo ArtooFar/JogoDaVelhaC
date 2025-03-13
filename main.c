@@ -1,12 +1,3 @@
-// - // - // - // - // - // - // - // - // - // - // - // - // - // - // - // - // - // - // - // - // - // - // - // - // - //
-// IDES TESTADOS:
-// Onlinegdb (onde foi feito) - funciona 100%
-// Replit - funciona, mas o salvamento de arquivo não funciona 100% -> trocar o Modo de Salvamento para 0
-// DevC++ - funciona 100%
-// - // - // - // - // - // - // - // - // - // - // - // - // - // - // - // - // - // - // - // - // - // - // - // - // - //
-
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
