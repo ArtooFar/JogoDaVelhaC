@@ -1,0 +1,21 @@
+--- Opções ---
+
+//Modo de debug ( 0 = Desativado [Padrão] / 1 = Simples / 2 = Automatizado )
+// Simples -> prinfs de avisos e monitoramento / Automatizado -> Jogadas são feitas aleatoriamente
+debug = 0
+
+// Ativa ou desativa função de limpeza de tela ( 1 = Ativado [Padrão] / 0 = Desativado )
+LimparTela = 1
+
+// Seleciona como será formatado o .txt que salva o histórico cada partida ( 1 = Data e Hora [Padrão] / 0 = partida.txt )
+// Recomendação: OnlineGDB = 1 / Replit = 0
+ModoDeSalvamento = 1
+
+
+
+
+
+
+
+//-->Esse jogo da velha foi codado no OnlineGdb e é onde funciona normalmente
+//-->Em outros sites como no Replit, algumas funções são diferentes, o que causa erro na função de obtenção de Data e Hora
