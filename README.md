@@ -18,7 +18,7 @@ Este é um simples jogo da velha implementado em linguagem C. O jogo permite par
 
 ![Image](https://github.com/user-attachments/assets/14e5eedb-23ca-4b29-98a8-880c4993cafd)
   
-- ⚙️ \*\*Opções configuráveis através do arquivo \*\***`opcoes.txt`**
+- ⚙️ **Opções configuráveis através do arquivo ** `opcoes.txt`
 - 🐛 **Modo de debug para facilitar o desenvolvimento e testes**
 
 ## Funcionalidades do arquivo de opções 🛠️
