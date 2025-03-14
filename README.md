@@ -54,7 +54,7 @@ Este projeto foi desenvolvido e testado nas seguintes IDEs:
 Você pode jogar diretamente no OnlineGDB, sem necessidade de baixar ou compilar:
 
 Basta só apertar Run, ajustar o tamanho do terminal e jogar!
-▶️ [Jogar no OnlineGDB](https://onlinegdb.com/8Uf-VIijQT)
+▶️ [Jogar no OnlineGDB](https://onlinegdb.com/FfUwJYwDy)
 
 ## Autor 👨‍💻
 
