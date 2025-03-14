@@ -11,7 +11,13 @@ Este é um simples jogo da velha implementado em linguagem C. O jogo permite par
 - 🔄 **Alternância automática entre jogadores**
 - 🎲 **O primeiro jogador é escolhido de forma aleatória**
 - ❌⭕ **Jogadas marcadas com X e O com cores diferenciadas**
+
+![Image](https://github.com/user-attachments/assets/bbf12ab4-e553-4814-aba6-b9fa7612d503)
+
 - 📝 **Histórico detalhado das partidas salvo em arquivos**
+
+![Image](https://github.com/user-attachments/assets/14e5eedb-23ca-4b29-98a8-880c4993cafd)
+  
 - ⚙️ \*\*Opções configuráveis através do arquivo \*\***`opcoes.txt`**
 - 🐛 **Modo de debug para facilitar o desenvolvimento e testes**
 
