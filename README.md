@@ -5,7 +5,9 @@ Este é um simples jogo da velha implementado em linguagem C. O jogo permite par
 ## Funcionalidades ✨
 
 - 👥 **Jogo para 2 jogadores**
+  
 ![Jogada](https://github.com/user-attachments/assets/822c1e75-e304-4d02-9028-f5c3a10b3d5f)
+
 - 🔄 **Alternância automática entre jogadores**
 - 🎲 **O primeiro jogador é escolhido de forma aleatória**
 - ❌⭕ **Jogadas marcadas com X e O com cores diferenciadas**
