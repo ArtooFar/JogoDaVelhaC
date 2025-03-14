@@ -52,6 +52,7 @@ Este projeto foi desenvolvido e testado nas seguintes IDEs:
 - ☁️ **Replit**: Funciona parcialmente; altere `ModoDeSalvamento` para `0` devido a restrições na função de data e hora.
 
 Você pode jogar diretamente no OnlineGDB, sem necessidade de baixar ou compilar:
+
 Basta só apertar Run, ajustar o tamanho do terminal e jogar!
 ▶️ [Jogar no OnlineGDB](https://onlinegdb.com/8Uf-VIijQT)
 
