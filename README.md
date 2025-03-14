@@ -59,4 +59,4 @@ Basta só apertar Run, ajustar o tamanho do terminal e jogar!
 ## Autor 👨‍💻
 
 Desenvolvido por Arthur Farias.
-
+🛜[LinkedIn](https://www.linkedin.com/in/arthur-farias-507245272/)
